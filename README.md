@@ -45,3 +45,43 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
   - Product 1: 10.98% (lowest churn among products)
   - Product 4: 69.17% (highest churn)
   - Product 4 has the highest churn, suggesting it may have limited appeal or requires improvements in value proposition.
+
+## Churn Drivers by Key Metrics
+
+- **Age Group**
+
+  - Age Group 31–40: Largest customer base with the highest churn rate (~800 customers, ~50% churn rate).
+  - Age Group 21–30: Second-highest churn rate (~500 customers, ~30% churn rate).
+  - Customers in the 31–40 age group appear most vulnerable to churn, potentially due to career or financial life-stage factors. Tailored offerings for this group could mitigate churn.
+ 
+- **Credit Scores**
+
+  - Credit Scores 500–700: Most churn observed.
+  - Credit Scores <500 and >700: Lower churn rates.
+  - Moderate credit score customers may face dissatisfaction due to perceived financial limitations or suboptimal banking experiences.
+ 
+- **Account Balance**
+  
+  - Balances <20K: High churn.
+  - Balances >120K: Another spike in churn, despite being a high-value segment.
+  - Low-balance customers may need better support, while high-balance churners require personalized relationship management and premium services.
+ 
+ Recommendations to Reduce Customer Churn
+
+ Based on the insights from the dashboard, here are targeted recommendations to address churn and improve customer retention:
+
+- **Targeted Retention Strategies by Customer Segments**
+  
+ - Age Group 31–40:
+   
+   This group exhibits the highest churn rate. Develop tailored products like family-oriented savings plans, flexible loan options, or mid-career investment opportunities to cater to 
+   their financial needs.
+   
+ - Inactive Customers:
+   
+   Reactivate this group through personalized communication, exclusive offers, or discounts to encourage account usage and engagement.
+   
+ - Low-balance customers may need better support, while high-balance churners require personalized relationship management and premium services.
+
+   
+ 
