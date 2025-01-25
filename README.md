@@ -20,7 +20,7 @@ Customer Demographics and Behavioral Insights
   - Male Customers: 55.92% (~1K customers)
   - Churn is relatively balanced across genders, suggesting gender is not a significant determinant of churn.
  
- - **Customers by Activity Status**
+- **Customers by Activity Status**
 
   - Inactive Customers: 18.04% (~0.74K customers)
   - Active Customers: 31.96% (~1.3K customers)
@@ -28,20 +28,20 @@ Customer Demographics and Behavioral Insights
   
   - **Customers by Country**
 
-   - Germany: 20.27% (~413 customers)
-   - France: 39.96% (~814 customers)
-   - Spain: 39.76% (~810 customers)
-   - France and Spain exhibit the highest churn rates, necessitating region-specific customer engagement plans.
+  - Germany: 20.27% (~413 customers)
+  - France: 39.96% (~814 customers)
+  - Spain: 39.76% (~810 customers)
+  - France and Spain exhibit the highest churn rates, necessitating region-specific customer engagement plans.
   
 
-  - **Customers by Credit Card Status**
+- **Customers by Credit Card Status**
 
-   - Owned: 30.09% (~1K customers)
-   - Not Owned: 69.91% (~1K customers)
-   - A majority of churned customers do not own credit cards, indicating a potential opportunity to promote credit card adoption as part of retention strategies.
+  - Owned: 30.09% (~1K customers)
+  - Not Owned: 69.91% (~1K customers)
+  - A majority of churned customers do not own credit cards, indicating a potential opportunity to promote credit card adoption as part of retention strategies.
 
-  - **Customers by Products**
+- **Customers by Products**
   
-   - Product 1: 10.98% (lowest churn among products)
-   - Product 4: 69.17% (highest churn)
-   - Product 4 has the highest churn, suggesting it may have limited appeal or requires improvements in value proposition.
+  - Product 1: 10.98% (lowest churn among products)
+  - Product 4: 69.17% (highest churn)
+  - Product 4 has the highest churn, suggesting it may have limited appeal or requires improvements in value proposition.
