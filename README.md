@@ -66,7 +66,7 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
   - Balances >120K: Another spike in churn, despite being a high-value segment.
   - Low-balance customers may need better support, while high-balance churners require personalized relationship management and premium services.
  
- Recommendations to Reduce Customer Churn
+## Recommendations to Reduce Customer Churn
 
  Based on the insights from the dashboard, here are targeted recommendations to address churn and improve customer retention:
 
