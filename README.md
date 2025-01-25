@@ -26,7 +26,7 @@ Customer Demographics and Behavioral Insights
   - Active Customers: 31.96% (~1.3K customers)
   - A significant proportion of churn comes from active customers, highlighting a need for deeper engagement strategies and loyalty programs to retain this segment.
   
-  - **Customers by Country**
+- **Customers by Country**
 
   - Germany: 20.27% (~413 customers)
   - France: 39.96% (~814 customers)
