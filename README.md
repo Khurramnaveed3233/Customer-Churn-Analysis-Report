@@ -12,7 +12,7 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
    - Churn Status: 100% of customers shown in the dashboard are churned.
    - The analysis considers multiple dimensions such as gender, activity status, country, credit card ownership, and product preferences to uncover underlying factors contributing to churn.
 
-Customer Demographics and Behavioral Insights
+## Customer Demographics and Behavioral Insights
 
 - **Customers by Gender**
   
