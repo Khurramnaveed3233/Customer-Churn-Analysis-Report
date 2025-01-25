@@ -72,16 +72,16 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
 
 - **Targeted Retention Strategies by Customer Segments**
   
- - Age Group 31–40:
+   - Age Group 31–40:
    
-   This group exhibits the highest churn rate. Develop tailored products like family-oriented savings plans, flexible loan options, or mid-career investment opportunities to cater to 
-   their financial needs.
+     This group exhibits the highest churn rate. Develop tailored products like family-oriented savings plans, flexible loan options, or mid-career investment opportunities to cater to 
+     their financial needs.
    
- - Inactive Customers:
+   - Inactive Customers:
    
-   Reactivate this group through personalized communication, exclusive offers, or discounts to encourage account usage and engagement.
+     Reactivate this group through personalized communication, exclusive offers, or discounts to encourage account usage and engagement.
    
- - Low-balance customers may need better support, while high-balance churners require personalized relationship management and premium services.
+  
 
    
  
