@@ -81,7 +81,7 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
    
      Reactivate this group through personalized communication, exclusive offers, or discounts to encourage account usage and engagement.
    
-- **  Product-Specific Improvements**
+- **Product-Specific Improvements**
   
    - Product 4:
 
@@ -92,7 +92,7 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
 
      Since Product 1 has the lowest churn, analyze what makes it successful and apply those elements to other products. Use it as a flagship offering to attract and retain customers.
   
-- **  Region-Specific Approaches**
+- **Region-Specific Approaches**
 
    - France and Spain:
      
@@ -108,7 +108,7 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
    - Offer introductory benefits like 0% interest for a limited period, cashback, or reward points to non-credit card customers.
    - Highlight the advantages of owning a credit card to improve customer satisfaction and loyalty.
 
- - **  Personalized Engagement for Account Balances**
+ - **Personalized Engagement for Account Balances**
 
    - Low-Balance Customers (<20K):
      
