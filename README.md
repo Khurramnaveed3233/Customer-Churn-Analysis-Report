@@ -102,7 +102,7 @@ This report provides an in-depth analysis of customer churn at a bank, based on 
 
      Even though churn is lower, continue monitoring and strengthening customer relationships to prevent potential increases.
 
-- **  Credit Card Adoption**
+- **Credit Card Adoption**
 
    - Promote credit cards as a retention tool:
    - Offer introductory benefits like 0% interest for a limited period, cashback, or reward points to non-credit card customers.
